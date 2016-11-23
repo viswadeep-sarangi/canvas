@@ -1,0 +1,22 @@
+#paint {
+  cursor: crosshair;
+  width:100%;
+  height:100%;
+}
+
+#sketch {
+	width:100%;
+	height:100%;
+}
+
+* {
+	border:1.5px solid #bbbbbb;
+}
+
+
+/*#tmp_canvas {
+  border:10px solid rgb(0,0,255);
+  border-radius:10px;
+  z-index:100;
+  cursor:crosshair;
+}*/

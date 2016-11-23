@@ -1,0 +1,5 @@
+a = guitar or main instrument which will provide the tune
+
+s = percussion or drums, which will provode the beat
+
+d = extra effects to make the sound fuller
